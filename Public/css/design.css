@@ -1,0 +1,19 @@
+.navbar {
+    background: rgb(11, 66, 52) !important;
+    font-weight: bold;
+}
+
+.card-header {
+    background: rgb(11, 66, 52);
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 1px 1px 12px #555;
+    box-shadow: 1px 1x 0px #aaa;
+}
+
+.card-body {
+    background: rgb(255, 255, 255);
+    border-radius: 10px 10px 10px 10px;
+}
